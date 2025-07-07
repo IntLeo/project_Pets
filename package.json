@@ -1,0 +1,26 @@
+{
+  "name": "project_pets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntLeo/project_Pets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IntLeo/project_Pets/issues"
+  },
+  "homepage": "https://github.com/IntLeo/project_Pets#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
