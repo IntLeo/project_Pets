@@ -33,7 +33,7 @@ function buscarPetPorNome(nome: string): Pet | undefined {
 
 
 try {
-  adicionarPet({ id: 1, nome: "Maia", especie: "cachorro", idade: 5, adotado: true });
+  adicionarPet({ id: 1, nome: "Maia", especie: "cachorro", idade: 6, adotado: true });
   adicionarPet({ id: 2, nome: "Rodolfo", especie: "gato", idade: 1, adotado: false });
 
   console.log("Todos os pets:", listarPets());
