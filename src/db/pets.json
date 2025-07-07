@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Rafael",
+    "especie": "gato",
+    "idade": 3,
+    "adotado": false
+  },
+  {
+    "id": 2,
+    "nome": "Roger",
+    "especie": "cachorro",
+    "idade": 5,
+    "adotado": false
+  },
+  {
+    "id": 3,
+    "nome": "Luna",
+    "especie": "gato",
+    "idade": 1,
+    "adotado": true
+  },
+  {
+    "id": 1,
+    "nome": "Rafael",
+    "especie": "gato",
+    "idade": 3,
+    "adotado": false
+  }
+]
